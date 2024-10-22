@@ -43,7 +43,7 @@ Here is a list of performance results on data sets CoNaLa and Django, using pret
 ### TL;DR
 
 ```bash
-git clone https://gitlab.com/codegenfactors/BertranX
+git clone https://github.com/NathanaelBeau/BertranX/
 cd BertranX
 conda env create -f environment.yml  # create conda Python environment.
 
